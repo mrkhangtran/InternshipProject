@@ -178,10 +178,14 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="DAL\Model\OrderTrack\PODetailModel.cs" />
     <Compile Include="DAL\Model\OrderTrack\POModel.cs" />
+<<<<<<< HEAD
     <Compile Include="DAL\Model\ShipmentTrack\AODModel.cs" />
     <Compile Include="DAL\Model\ShipmentTrack\CAModel.cs" />
     <Compile Include="DAL\Model\ShipmentTrack\CBModel.cs" />
     <Compile Include="DAL\Model\ShipmentTrack\MNFULEModel.cs" />
+=======
+    <Compile Include="DAL\Model\OrderTrack\ProgressCheckModel.cs" />
+>>>>>>> d391ab3fb752cd8541e5559ce64bf1cec8208d5d
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
